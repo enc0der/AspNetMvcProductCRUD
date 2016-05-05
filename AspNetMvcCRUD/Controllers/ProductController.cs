@@ -1,12 +1,9 @@
 ﻿using AspNetMvcCRUD.Context;
 using AspNetMvcCRUD.Models;
-using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Net;
-using System.Web;
 using System.Web.Mvc;
-
+//Nuh
 namespace AspNetMvcCRUD.Controllers
 {
     public class ProductController : Controller
